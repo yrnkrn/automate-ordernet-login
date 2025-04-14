@@ -1,4 +1,5 @@
-# automate-ordernet-login
-Streamline spark ordernet login by automatically clicking the login button once the username and password are auto-populated by a password manager.
-Due to Chrome security restrictions, this happens only after real user interaction, such clicking anywhere in the browser.
-In addition this script auto clicks the next modal button screen.
+# Streamline Ordernet Login with Automation
+
+This [Tampermonkey](https://www.tampermonkey.net) script enhances your Spark Ordernet login experience. It automatically clicks the login button after your password manager enters your username and password.  This automation is activated only after you interact with the page (e.g., click anywhere), prioritizing security.
+
+Furthermore, the script automatically progresses through subsequent modal screens by clicking the "next" button.
